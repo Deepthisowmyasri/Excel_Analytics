@@ -1,9 +1,0 @@
-.footer {
-  background-color: #006d77;         /* Dark slate blue for a professional feel */
-  color: #ecf0f1;                    /* Light gray text */
-  text-align: center;
-  padding: 1rem 0;
-  font-size: 17px;
-  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
-  margin-top: 13px;                 /* Helps stick to bottom in flex layouts */
-}
